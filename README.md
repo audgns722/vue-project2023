@@ -17,13 +17,16 @@
 `npm init vue@latest`
 `npm run format`
 `npm run dev` 실행하기
-`npm i` lenis 설치
+`npm install`
+`npm install gsap`
+`npm install sass`
+`npm install @studio-freight/lenis`
 
 ## 셋팅
 - Project name: ... vue-project
 - Add TypeScript? ... No
 - Add JSX Support? ... Yes
-- Add Pinia for state management?<span style="color : #000;background-color:#DCFFE4">No</span>
+- Add Pinia for state management? <span style="color : #000;background-color:#DCFFE4">No</span>
 - Add Vitest for Unit Testing? ... No
 - Add an End-to-End Testing Solution? » No
 - Add ESLint for code quality? ... Yes
