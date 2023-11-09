@@ -23,7 +23,7 @@
 - Project name: ... vue-project
 - Add TypeScript? ... No
 - Add JSX Support? ... Yes
-- Add Pinia for state management?<span style="color : #000;background-color:#DCFFE4">No</span>
+- Add Pinia for state management?<span style="color : #red;background-color:#DCFFE4">No</span>
 - Add Vitest for Unit Testing? ... No
 - Add an End-to-End Testing Solution? » No
 - Add ESLint for code quality? ... Yes
