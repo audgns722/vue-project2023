@@ -47,13 +47,9 @@
 ## 트러블 슈팅
 
 <details>
-<summary>버그</summary>
-
-<!-- summary 아래 한칸 공백 두어야함 -->
+<summary>공백</summary>
 
 ### 버그(해결) :
-#### 버그버그
-
 
 </details>
 
